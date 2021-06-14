@@ -4,6 +4,7 @@ Created on Sun Jun 13 14:49:53 2021
 
 @author: barto
 """
+#EDIT - nie wiem, jak mogę wczytać dane z plików które są w repozytorium, dlatego w skrypcie są ścieżki do plików, na moim komputerze
 import geopandas
 import numpy as np
 import matplotlib.pyplot as plt
